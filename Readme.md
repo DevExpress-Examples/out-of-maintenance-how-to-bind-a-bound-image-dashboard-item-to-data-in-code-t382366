@@ -3,11 +3,10 @@
 
 * [Form1.cs](./CS/Dashboard_BoundImage/Form1.cs) (VB: [Form1.vb](./VB/Dashboard_BoundImage/Form1.vb))
 <!-- default file list end -->
-# How to bind a Bound Image dashboard item to data in code
+# How to Bind a Bound Image Dashboard Item to Data at Runtime
 
 
-<p>The following example shows how to use a <a href="https://documentation.devexpress.com/#Dashboard/CustomDocument15267">Bound Image</a> dashboard item to display a specified image accessible by a predefined URI.</p>
-
-<br/>
+This example shows how to use a [Bound Image](https://docs.devexpress.com/Dashboard/15267) dashboard item to display an image specified by its URI.</p>
 
 
+![screenshot](/images/screenshot.png)
