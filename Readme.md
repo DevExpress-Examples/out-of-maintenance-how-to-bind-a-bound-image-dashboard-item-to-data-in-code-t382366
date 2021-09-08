@@ -34,6 +34,6 @@ This example shows how to use a [Bound Image](https://docs.devexpress.com/Dashbo
 * [Dashboard for WinForms - Bind a Chart dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-chart-dashboard-item-to-data-in-code-e4767)
 * [Dashboard for WinForms - Bind a Card Dashboard Item to Data in Code](https://github.com/DevExpress-Examples/how-to-bind-a-card-dashboard-item-to-data-in-code) 
 * [Dashboard for WinForms - Bind a Gauge dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-gauge-dashboard-item-to-data-in-code-e4771)
-* Dashboard for WinForms - Bind a Pie dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-dashboard-item-to-data-in-code-e4769)
+* [Dashboard for WinForms - Bind a Pie dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-dashboard-item-to-data-in-code-e4769)
 * [Dashboard for WinForms - Bind a Pivot dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pivot-dashboard-item-to-data-in-code-e4772)
 * [Dashboard for WinForms - Bind a Choropleth Map dashboard item to data in code](https://github.com/DevExpress-Examples/how-to-bind-a-choropleth-map-dashboard-item-to-data-in-code-e5010)
